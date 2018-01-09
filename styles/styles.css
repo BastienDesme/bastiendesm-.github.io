@@ -25,3 +25,6 @@ main, header {
 .item-content {
   background: lightgrey;
 }
+.header-img {
+    width: 100%
+}
